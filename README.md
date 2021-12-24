@@ -1,4 +1,4 @@
-# Ana Beatriz Macedo's Portfolio (In progress)
+# Ana Beatriz Macedo's Portfolio
 
 # [NBA all-time points analysis API 🏀](https://github.com/AnabeatrizMacedo241/NBA_AllTimePTS_API)
 - Understanding the role that each player have/had on court.

@@ -13,4 +13,8 @@
 - Does the Weather affect the accidents? The engines of the plane? The type of the plane?
 - Is there a state or city with much more accidents?
 
-# [Olympics Analysis 🥇](https://github.com/AnabeatrizMacedo241/Projeto_Olimpiadas)
+# [Olympics and Paralympics Analysis 🥇](https://github.com/AnabeatrizMacedo241/Projeto_Olimpiadas)
+- Storytelling on the biggest potencies of the Olympics and what makes them so powerful.
+- Figuring out why Brazil is not a potency at the Olympics. 
+- Which factors most contribute to winning medals(Investment, number of athletes i.e)
+- Realising that the Paralympics contributes much more on winnimg medals, but having less recognition and visibility.

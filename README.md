@@ -1,11 +1,18 @@
 # Ana Beatriz Macedo's Portfolio
 
-# [NBA all-time points analysis API 🏀](https://github.com/AnabeatrizMacedo241/NBA_AllTimePTS_API)
+# [NBA All-time Points Analysis API 🏀](https://github.com/AnabeatrizMacedo241/NBA_AllTimePTS_API)
 - Understanding the role that each player have/had on court.
 - Keeping track of Lebron's points evolution and when he will become the All-Time points leader of the NBA.
 - Get insights from many basketball players and how they made/are making impact on the league.
 - Individual player statistics.
 - Find out what player has the most points, rebounds, steals etc.
+
+# [Player and Team Machine Learning Analysis ⚽️](https://github.com/AnabeatrizMacedo241/Euro2020_API)
+- Project for the Women In Sports Data Hackaton with Statsbomb data.
+- Player comparison evaluation using grades, stats and salary.
+- KMeans model to suggest similar players during trades and free agency.
+- SVM model to predict if a player is a good passer.
+- Player and Team's passing and shooting charts.
 
 # [CENIPA API ✈︎](https://github.com/AnabeatrizMacedo241/CENIPA_API)
 - Facilitating the use of the CENIPA DataBase(Aeronautical Accident Investigation and Prevention Center of Brazil).

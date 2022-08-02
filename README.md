@@ -14,6 +14,12 @@
 - SVM model to predict if a player is a good passer.
 - Player and Team's passing and shooting charts.
 
+# [Predicting Covid-19 and recommending ideal doctors 🩺](https://github.com/AnabeatrizMacedo241/CovidPrediction_DoctorRecommendation)
+- `KNN` model to classifiy if a patient has Covid-19.
+- `Multiple Linear Regression`  and `Decision Tree`  models to select professionals who have more experience and skills in performing the intubation procedure on patients.
+- `Logistic Regression` and `SVM`  models to help hire urgently the best doctors.
+- `Naive Bayes` model to classify the severity of Covid-19 from patients.
+
 # [CENIPA API ✈︎](https://github.com/AnabeatrizMacedo241/CENIPA_API)
 - Facilitating the use of the CENIPA DataBase(Aeronautical Accident Investigation and Prevention Center of Brazil).
 - Comprehensive insights of the facts that occurred and drawing conclusions through its Data.

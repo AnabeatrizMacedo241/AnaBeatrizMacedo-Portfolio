@@ -31,3 +31,11 @@
 - Figuring out why Brazil is not a potency at the Olympics. 
 - Which factors most contribute to winning medals(Investment, number of athletes i.e)
 - Realising that the Paralympics contributes much more on winnimg medals, but having less recognition and visibility.
+
+# Publications
+## Center for Sports Analytics at Samford University
+[Can Harry Kane become the second All-time scorer of the EPL and surpass Wayne Rooney?](https://www.samford.edu/sports-analytics/fans/2022/Can-Harry-Kane-become-the-second-All-time-scorer-of-the-EPL-and-surpass-Wayne-Rooney?image)
+
+[How Did Ronaldo’s Return to the Premier League Affect Manchester United’s Performance?How Did Ronaldo’s Return to the Premier League Affect Manchester United’s Performance?](https://www.samford.edu/sports-analytics/fans/2022/How-Did-Ronaldos-Return-to-the-Premier-League-Affect-Manchester-Uniteds-Performance?image)
+
+[Sports Brand Affinity Among Universities](https://www.samford.edu/sports-analytics/fans/2022/Sports-Brand-Affinity-Among-Universities?image)

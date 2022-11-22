@@ -13,13 +13,13 @@
 - `KMeans` model to recommend similar and affordable players during trades and free agency season.
 - `SVM` model to predict if a player is a good passer.
 - Player and Team's passing and shooting charts.
-<img width="1100" alt="Screen Shot 2021-11-30 at 15 42 40" src="https://user-images.githubusercontent.com/84348494/181510011-bd8398e9-814f-4597-8479-e4398ff1581f.png">
+<img width="1100" align="center" alt="Screen Shot 2021-11-30 at 15 42 40" src="https://user-images.githubusercontent.com/84348494/181510011-bd8398e9-814f-4597-8479-e4398ff1581f.png">
 
 # [2018 World Cup Scouting Project 🏆](https://public.tableau.com/app/profile/ana.beatriz.oliveira.de.macedo/viz/WorldCup2018Dashboard/Dashboard1)
 - Scouting Dashboard
 - Analysis to help General Managers, Coaches and Scouting professionals aqquire new palyers
 - Player clustering
-<img width="1100" alt="Screenshot 2022-11-16 at 09 11 45" src="https://user-images.githubusercontent.com/84348494/202177724-d76fb1e1-bf8d-4499-a34d-8c15306ce605.png">
+<img src="https://user-images.githubusercontent.com/84348494/202177724-d76fb1e1-bf8d-4499-a34d-8c15306ce605.png" width="1100" align="center" alt="Screenshot 2022-11-16 at 09 11 45">
 
 # [Predicting Covid-19 and recommending ideal doctors 🩺](https://github.com/AnabeatrizMacedo241/CovidPrediction_DoctorRecommendation)
 - `KNN` model to classifiy if a patient has Covid-19.

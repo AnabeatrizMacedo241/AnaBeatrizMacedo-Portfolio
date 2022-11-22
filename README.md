@@ -1,3 +1,5 @@
+<img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1626096942740.png" width="324" height="324" align="right">
+
 # [NBA All-time Points Analysis API 🏀](https://github.com/AnabeatrizMacedo241/NBA_AllTimePTS_API)
 - Understanding the role that each player have/had on court.
 - Keeping track of Lebron's points evolution and when he will become the All-Time points leader of the NBA.
@@ -8,22 +10,22 @@
 # [Euro 2020 -  Machine Learning Analysis ⚽️](https://github.com/AnabeatrizMacedo241/Euro2020_API)
 - Project for the Women In Sports Data Hackaton with Statsbomb 360 tracking data.
 - Scouting and Strategic player analysis
-- KMeans model to suggest similar players during trades and free agency.
-- SVM model to predict if a player is a good passer.
+- `KMeans` model to recommend similar and affordable players during trades and free agency season.
+- `SVM` model to predict if a player is a good passer.
 - Player and Team's passing and shooting charts.
 <img width="1100" alt="Screen Shot 2021-11-30 at 15 42 40" src="https://user-images.githubusercontent.com/84348494/181510011-bd8398e9-814f-4597-8479-e4398ff1581f.png">
+
+# [2018 World Cup Scouting Project 🏆](https://public.tableau.com/app/profile/ana.beatriz.oliveira.de.macedo/viz/WorldCup2018Dashboard/Dashboard1)
+- Scouting Dashboard
+- Analysis to help General Managers, Coaches and Scouting professionals aqquire new palyers
+- Player clustering
+<img width="1100" alt="Screenshot 2022-11-16 at 09 11 45" src="https://user-images.githubusercontent.com/84348494/202177724-d76fb1e1-bf8d-4499-a34d-8c15306ce605.png">
 
 # [Predicting Covid-19 and recommending ideal doctors 🩺](https://github.com/AnabeatrizMacedo241/CovidPrediction_DoctorRecommendation)
 - `KNN` model to classifiy if a patient has Covid-19.
 - `Multiple Linear Regression`  and `Decision Tree`  models to select professionals who have more experience and skills in performing the intubation procedure on patients.
 - `Logistic Regression` and `SVM`  models to help hire urgently the best doctors.
 - `Naive Bayes` model to classify the severity of Covid-19 from patients.
-
-# [2018 World Cup Free Agency](https://public.tableau.com/app/profile/ana.beatriz.oliveira.de.macedo/viz/WorldCup2018Dashboard/Dashboard1)
-- Scouting Dashboard
-- Analysis to help General Managers, Coaches and Scouting professionals aqquire new palyers
-- Player clustering
-<img width="1100" alt="Screenshot 2022-11-16 at 09 11 45" src="https://user-images.githubusercontent.com/84348494/202177724-d76fb1e1-bf8d-4499-a34d-8c15306ce605.png">
 
 # [CENIPA API ✈︎](https://github.com/AnabeatrizMacedo241/CENIPA_API)
 - Optimized use of the CENIPA DataBase(Aeronautical Accident Investigation and Prevention Center of Brazil).

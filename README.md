@@ -1,4 +1,4 @@
-<img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1626096942740.png" width="324" height="324" align="right">
+<img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1626096942740.png" width="124" height="124" align="right">
 
 # [NBA All-time Points Analysis API 🏀](https://github.com/AnabeatrizMacedo241/NBA_AllTimePTS_API)
 - Understanding the role that each player have/had on court.

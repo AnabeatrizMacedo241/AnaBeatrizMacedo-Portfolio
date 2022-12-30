@@ -49,3 +49,6 @@
 
 ### Twitter Data Visualizations - [@AnaBeaM241](https://twitter.com/AnaBeaM241)
 ![Portfolio](https://user-images.githubusercontent.com/84348494/202175853-82ba32dd-ca0a-445d-b332-fb425b558915.png)
+
+## Tactical Analysis Videos for Total Football Analysis
+[Xabi Alonso and his tactics at Bayer Leverkusen | Bundesliga 2022/23 | Tactical Analysis](https://totalfootballanalysis.com/video/video-xabi-alonso-and-his-tactics-at-bayer-leverkusen-tactical-analysis-tactics)

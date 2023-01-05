@@ -52,3 +52,5 @@
 
 ## Tactical Analysis Videos for Total Football Analysis
 [Xabi Alonso and his tactics at Bayer Leverkusen | Bundesliga 2022/23 | Tactical Analysis](https://totalfootballanalysis.com/video/video-xabi-alonso-and-his-tactics-at-bayer-leverkusen-tactical-analysis-tactics)
+
+[Brazil's next coach? | Fernando Diniz tactics + philosophy | Fluminense 2022/23 | Tactical Analysis](https://www.youtube.com/watch?v=3c3BC07mcLc)

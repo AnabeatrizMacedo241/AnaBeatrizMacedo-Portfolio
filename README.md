@@ -27,12 +27,6 @@
 - `Logistic Regression` and `SVM`  models to help hire urgently the best doctors.
 - `Naive Bayes` model to classify the severity of Covid-19 from patients.
 
-# [CENIPA API ✈︎](https://github.com/AnabeatrizMacedo241/CENIPA_API)
-- Optimized use of the CENIPA DataBase(Aeronautical Accident Investigation and Prevention Center of Brazil).
-- Comprehensive insights of the facts that occurred and drawing conclusions through its Data.
-- Does the Weather affect the accidents? The engines of the plane? The type of the plane?
-- Is there a state or city with much more accidents?
-
 # [Olympics and Paralympics Analysis 🥇](https://github.com/AnabeatrizMacedo241/Projeto_Olimpiadas)
 - Storytelling on the biggest potencies of the Olympics and what makes them so powerful.
 - Figuring out why Brazil is not a potency at the Olympics. 

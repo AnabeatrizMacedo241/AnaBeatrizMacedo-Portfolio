@@ -1,5 +1,3 @@
-<img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1626096942740.png" width="124" height="124" align="right">
-
 # [NBA All-time Points Analysis API](https://github.com/AnabeatrizMacedo241/NBA_AllTimePTS_API)
 - Understanding the role that each player have/had on court.
 - Keeping track of Lebron's points evolution and when he will become the All-Time points leader of the NBA.

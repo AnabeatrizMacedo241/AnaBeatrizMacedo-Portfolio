@@ -41,12 +41,3 @@
 
 ### Twitter Data Visualizations - [@AnaBeaM241](https://twitter.com/AnaBeaM241)
 ![Portfolio](https://user-images.githubusercontent.com/84348494/202175853-82ba32dd-ca0a-445d-b332-fb425b558915.png)
-
-## Tactical Analysis Videos for Total Football Analysis
-[Marco Silva tactics and his philosophy | Fulham | Premier League 2022/23 | Tactical Analysis](https://www.youtube.com/watch?v=WlkEKj13AwM)
-
-[Eddie Howe's tactics and philosophy | Newcastle | Premier League 2022/23 | Tactical Analysis](https://www.youtube.com/watch?v=qV-zqPve3TY)
-
-[Brazil's next coach? | Fernando Diniz tactics + philosophy | Fluminense 2022/23 | Tactical Analysis](https://www.youtube.com/watch?v=3c3BC07mcLc)
-
-[More videos](https://www.youtube.com/watch?v=wyj7uR5iCfk&list=PLkfpUmGJU_jZ-bd0GKgc0lGYBYNrSOPpi)
